@@ -1,5 +1,4 @@
 # Customer-Churn-Cluster-Analysis
-# Customer Churn Cluster Analysis
 
 ## Overview
 
